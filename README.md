@@ -1,6 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+Offline js and css files for template
+
 
 # Project Goals
 
